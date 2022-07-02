@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "Kmal",
+    "email": "komal@gmail.com",
+    "password": "qwertyuiop"
+  },
+  {
+    "id": 2,
+    "username": "AliceOx",
+    "email": "alice@gmail.com",
+    "password": "qwertyuiop"
+  },
+  {
+    "id": 3,
+    "username": "GinnyTheWeasel",
+    "email": "ginny@gmail.com",
+    "password": "qwertyuiop"
+  }
+]
